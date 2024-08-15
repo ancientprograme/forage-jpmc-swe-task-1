@@ -19,7 +19,6 @@
 #  DEALINGS IN THE SOFTWARE.
 
 
-#user test for push
 import csv
 # from BaseHTTPServer import BaseHTTPRequestHandler,HTTPServer
 import http.server
